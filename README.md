@@ -48,9 +48,13 @@ The primary objective of this project is to evaluate the performance of paid ad 
 - **Dayparting:** Schedule high-spend delivery in the afternoon and evening time slots to capture maximum active engagement.
 
 ---
-👤 Author
-Portfolio / LinkedIn: Raju Raidas
-GitHub: @Rj-Smile4
+---
+
+## 👤 Author & Acknowledgements
+
+* **Author:** [Raju Raidas](https://www.linkedin.com/in/raju-raidas)
+* **GitHub:** [@Rj-Smile4](https://github.com/Rj-Smile4)
+* **Training & Mentorship:** Developed during the Data Analytics training program at **AU Ignite Future Skills Academy** under the guidance of **Satyam Sir** and **Govind Sir**.
 
 ## 🛠️ Data Model & Tech Stack
 - **Fact Table:** `ad_events` (event-level interactions: impressions, clicks, purchases)
